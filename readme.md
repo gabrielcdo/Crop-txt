@@ -1,6 +1,7 @@
 # Crop images from yolo .txt mark
-
-> Python -t type -p image_path -d dest_path 
+```properties
+Python -t type -p image_path -d dest_path 
+```  
 > type:
 >> png,jpg,bmp ...
 >
